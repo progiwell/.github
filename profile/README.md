@@ -8,8 +8,8 @@
 
 | Project | License | Description |
 | :--- | :--- | :--- |
-| **[Debrid Hub](https://github.com/progiwell/debrid-hub)** | `GPL-3.0` | Ultra-lightweight (<50 MB RAM) Debrid download daemon (FastAPI + Aria2c + Unrar/7-Zip) paired with a Chrome & Firefox MV3 extension and qBittorrent API emulation for `*arr` stacks. |
-| **[Gemini PR Reviewer](https://github.com/progiwell/gemini-pr-reviewer)** | `MIT` | Multi-provider automated AI pull request code review GitHub Action (Google Gemini, Groq, OpenRouter, Cerebras, Mistral) with strict original-issue verification and inline diff comments. |
+| **[Debrid Hub](https://github.com/progiwell/debrid-hub)** | `GPL-3.0` | Simplify your Debrid workflow—send torrents, magnet links, and supported hoster links straight from your browser to your Debrid service and automatically download the files to your server. Ultra-lightweight (<50 MB RAM) with qBittorrent API emulation for `*arr` stacks—one Docker container to handle all your links. |
+| **[PR Council](https://github.com/progiwell/pr-council)** | `MIT` | Automated pull request code reviews focused on free-tier AI models—supporting Google Gemini, Groq, OpenRouter, Cerebras, and Mistral with original issue verification and line-by-line diff comments. |
 
 ---
 
